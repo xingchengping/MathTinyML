@@ -1,6 +1,6 @@
 MathTinyML
 
-Running neural nets on potato-tier MCUs using pure math. No bloated frameworks, no <cmath>, no malloc().
+Running neural nets on potato-tier MCUs using pure math. No bloated frameworks, no <cmath> , no malloc().
 
 I got sick of TensorFlow Lite for Microcontrollers or PyTorch eating up all my SRAM and clock cycles on embedded devices. FPU operations like exp() are way too slow for extreme-edge devices. So I threw out the standard approach and built an inference engine driven entirely by polynomial approximations and matrix factorization.
 
