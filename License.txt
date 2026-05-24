@@ -1,6 +1,10 @@
 MIT License
 
 Copyright (c) 2026 MathTinyML
+A simple request from the author
+I'm 14, and I built this because I love coding and math. You can do anything you want with this code — MIT license applies.
+But if you use it in a commercial product, I'd really appreciate it if you could send me a quick email (1638763504@qq.com) and let me know. That's all. No fees, no lawyers, just a "hey, we're using it".
+Thanks for making my day.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
